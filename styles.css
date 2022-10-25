@@ -1,0 +1,9 @@
+body {
+    margin: 15px;
+    background-color: rgb(189, 255, 233);
+}
+h1 {
+    color: blue;
+    text-align: center;
+    margin: inherit;
+}
