@@ -10,9 +10,6 @@ Css
 To get a local copy up and running follow these simple example steps. Clone the repo named "Hello-Microverse"
 
 
-To get a local copy up and running follow these simple example steps.
-
-
 ## Authors
 
 👤 Basim Aljazaeri
