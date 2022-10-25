@@ -1,5 +1,4 @@
 # Hello-Microverse
-# Hello-Microverse
 
 ## Built With
 
@@ -9,9 +8,6 @@ Css
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps. Clone the repo named "Hello-Microverse"
-
-
-To get a local copy up and running follow these simple example steps.
 
 
 ## Authors
