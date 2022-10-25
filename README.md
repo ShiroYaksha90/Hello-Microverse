@@ -2,8 +2,8 @@
 Hello-Microverse
 ## Built With
 
-- Major languages HTML,CSS
-- Technologies used Git,Github
+- Major languages: HTML,CSS
+- Technologies used: Git,Github
 
 ## Getting Started
 
@@ -12,18 +12,6 @@ To get a local copy up and running follow these simple example steps:
 **``git clone repo [<link>](https://github.com/habasm/HelloMicroverse.git)``**
 1. Navigate to the location of the folder in your machine:
 **``you@your-Pc-name:~$ cd <folder>``**
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
 
 
 ## Authors
