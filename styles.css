@@ -3,7 +3,7 @@ body {
   background-color: rgb(164, 255, 225);
 }
 
-h1 {
+.head {
   color: blue;
   text-align: center;
   margin: inherit;
