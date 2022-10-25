@@ -1,0 +1,10 @@
+body {
+  margin: 15px;
+  background-color: rgb(164, 255, 225);
+}
+
+.head {
+  color: blue;
+  text-align: center;
+  margin: inherit;
+}
