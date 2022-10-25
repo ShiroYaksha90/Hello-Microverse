@@ -1,9 +1,10 @@
 body {
-    margin: 15px;
-    background-color: rgb(189, 255, 233);
+  margin: 15px;
+  background-color: rgb(164, 255, 225);
 }
+
 h1 {
-    color: blue;
-    text-align: center;
-    margin: inherit;
+  color: blue;
+  text-align: center;
+  margin: inherit;
 }
